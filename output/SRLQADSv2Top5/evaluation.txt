@@ -1,0 +1,11 @@
+RESULTS:
+
+Total number of questions: 148
+
+num answered (mean)  : 85
+num answered (max)   : 81
+num answered (median): 85
+
+% answered (mean)  : 57.43
+% answered (max)   : 54.73
+% answered (median): 57.43

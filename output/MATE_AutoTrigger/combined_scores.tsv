@@ -1,0 +1,434 @@
+	QUESTION	ANSWER_CHOICE	MEAN_SCORE	MAX_SCORE	MEDIAN_SCORE	CORRECT_ANSWER
+0	A pot is heated on a stove. Which process causes the metal handle of the pot to also become hot? 	conduction	0.0	0.0	0.0	conduction
+1	A pot is heated on a stove. Which process causes the metal handle of the pot to also become hot? 	convection	0.0	0.0	0.0	conduction
+2	A pot is heated on a stove. Which process causes the metal handle of the pot to also become hot? 	combustion	0.0	0.0	0.0	conduction
+3	A pot is heated on a stove. Which process causes the metal handle of the pot to also become hot? 	radiation	0.0	0.0	0.0	conduction
+4	What starts the change from an igneous rock to a sedimentary rock? 	melting	0.0	0.0	0.0	weathering
+5	What starts the change from an igneous rock to a sedimentary rock? 	weathering	0.0	0.0	0.0	weathering
+6	When water is heated and it is rising into the air as a gas (like water vapor), this is called: 	condensation	0.0	0.0	0.0	evaporation
+7	When water is heated and it is rising into the air as a gas (like water vapor), this is called: 	precipitation	0.0	0.0	0.0	evaporation
+8	When water is heated and it is rising into the air as a gas (like water vapor), this is called: 	evaporation	0.0	0.0	0.0	evaporation
+9	"<span class=""blank""> </span> is an animal's color or pattern that helps it blend in with its surroundings. "	mimicry	0.0	0.0	0.0	camouflage
+10	"<span class=""blank""> </span> is an animal's color or pattern that helps it blend in with its surroundings. "	camouflage	0.0	0.0	0.0	camouflage
+11	mowing the lawn 	physical change	0.0	0.0	0.0	physical change
+12	mowing the lawn 	chemical change	0.0	0.0	0.0	physical change
+13	The path Earth makes around the sun is called the 	rotation	0.0	0.0	0.0	orbit
+14	The path Earth makes around the sun is called the 	orbit	0.0	0.0	0.0	orbit
+15	"The process by which a gas changes into a liquid is called <span class=""blank""> </span>. "	evaporation	0.0	0.0	0.0	condensation
+16	"The process by which a gas changes into a liquid is called <span class=""blank""> </span>. "	condensation	0.0	0.0	0.0	condensation
+17	"The process by which a gas changes into a liquid is called <span class=""blank""> </span>. "	precipitation	0.0	0.0	0.0	condensation
+18	"The process by which a gas changes into a liquid is called <span class=""blank""> </span>. "	transpiration	0.0	0.0	0.0	condensation
+19	The continuous movement of nitrogen between air, soil, plants and animals. 	carbon cycle	0.0	0.0	0.0	nitrogen cycle
+20	The continuous movement of nitrogen between air, soil, plants and animals. 	nitrogen cycle	0.0	0.0	0.0	nitrogen cycle
+21	Andy is cooking a piece of ham in a pan. 	conduction	0.0	0.0	0.0	conduction
+22	Andy is cooking a piece of ham in a pan. 	friction	0.0	0.0	0.0	conduction
+23	What causes sunflowers to bend toward the sunlight? 	negative tropism	0.0	0.0	0.0	positive tropism
+24	What causes sunflowers to bend toward the sunlight? 	transportation	0.0	0.0	0.0	positive tropism
+25	What causes sunflowers to bend toward the sunlight? 	positive tropism	0.0	0.0	0.0	positive tropism
+26	What causes sunflowers to bend toward the sunlight? 	pollination	0.0	0.0	0.0	positive tropism
+27	"A liquid changing to a solid, A solid changing to a liquid, and a liquid changing into a gas are all examples of <span class=""blank""> </span> "	boiling	0.00149409756979	0.00149409756979	0.00149409756979	physical change
+28	"A liquid changing to a solid, A solid changing to a liquid, and a liquid changing into a gas are all examples of <span class=""blank""> </span> "	physical change	0.0216	0.0216	0.0216	physical change
+29	"A liquid changing to a solid, A solid changing to a liquid, and a liquid changing into a gas are all examples of <span class=""blank""> </span> "	evaporation	0.122195230975	0.122195230975	0.122195230975	physical change
+30	Waves change a shoreline by erosion and __________. 	deposition	0.0216	0.0216	0.0216	deposition
+31	Waves change a shoreline by erosion and __________. 	condensation	0.0	0.0	0.0	deposition
+32	Waves change a shoreline by erosion and __________. 	precipitation	0.0	0.0	0.0	deposition
+33	Waves change a shoreline by erosion and __________. 	evaporation	0.0216	0.0216	0.0216	deposition
+34	"<span class=""blank""> </span>is the process of liquid water turning into water vapor. "	storage	0.0	0.0	0.0	evaporation
+35	"<span class=""blank""> </span>is the process of liquid water turning into water vapor. "	condensation	0.0	0.0	0.0	evaporation
+36	"<span class=""blank""> </span>is the process of liquid water turning into water vapor. "	precipitation	0.0	0.0	0.0	evaporation
+37	"<span class=""blank""> </span>is the process of liquid water turning into water vapor. "	evaporation	0.0	0.0	0.0	evaporation
+38	A new aluminum can made from used cans is an example of 	repairing	0.0	0.0	0.0	recycling
+39	A new aluminum can made from used cans is an example of 	reducing	0.0	0.0	0.0	recycling
+40	A new aluminum can made from used cans is an example of 	reusing	0.0	0.0	0.0	recycling
+41	A new aluminum can made from used cans is an example of 	recycling	0.0	0.0	0.0	recycling
+42	Which of the following processes makes it possible for plants to use energy from sunlight to produce their own food? 	metamorphosis	0.0	0.0	0.0	photosynthesis
+43	Which of the following processes makes it possible for plants to use energy from sunlight to produce their own food? 	photosynthesis	0.0	0.0	0.0	photosynthesis
+44	Which of the following processes makes it possible for plants to use energy from sunlight to produce their own food? 	pollination	0.0	0.0	0.0	photosynthesis
+45	Which of the following processes makes it possible for plants to use energy from sunlight to produce their own food? 	reproduction	0.0	0.0	0.0	photosynthesis
+46	Burning a match is a 	physical change	0.0	0.0	0.0	chemical change
+47	Burning a match is a 	chemical change	0.0	0.0	0.0	chemical change
+48	bleaching your hair 	physical change	0.0	0.0	0.0	chemical change
+49	bleaching your hair 	chemical change	0.0	0.0	0.0	chemical change
+50	A reaction that forms water and a salt is called a 	chemical reaction	0.0	0.0	0.0	neutralization reaction
+51	A reaction that forms water and a salt is called a 	neutralization reaction	0.0	0.0	0.0	neutralization reaction
+52	What is the force that slows down moving things? 	motion	0.0	0.0	0.0	friction
+53	What is the force that slows down moving things? 	acceleration	0.0	0.0	0.0	friction
+54	What is the force that slows down moving things? 	gravity	0.0	0.0	0.0	friction
+55	What is the force that slows down moving things? 	friction	0.0	0.0	0.0	friction
+56	"To move in a circle around an object is to <span class=""blank""> </span> "	revolve	0.0216	0.0216	0.0216	rotate
+57	"To move in a circle around an object is to <span class=""blank""> </span> "	rotate	0.0216	0.0216	0.0216	rotate
+58	"To move in a circle around an object is to <span class=""blank""> </span> "	eclipse	0.0	0.0	0.0	rotate
+59	Which of the following is an unwanted change in the environment caused by harmful substances? 	overpopulation	0.0	0.0	0.0	pollution
+60	Which of the following is an unwanted change in the environment caused by harmful substances? 	evolution	0.0	0.0	0.0	pollution
+61	Which of the following is an unwanted change in the environment caused by harmful substances? 	pollution	0.0	0.0	0.0	pollution
+62	"<span class=""blank""> </span> is the process of water vapor becoming liquid water when it cools. "	storage	0.0	0.0	0.0	condensation
+63	"<span class=""blank""> </span> is the process of water vapor becoming liquid water when it cools. "	condensation	0.0	0.0	0.0	condensation
+64	"<span class=""blank""> </span> is the process of water vapor becoming liquid water when it cools. "	precipitation	0.0	0.0	0.0	condensation
+65	"<span class=""blank""> </span> is the process of water vapor becoming liquid water when it cools. "	evaporation	0.0	0.0	0.0	condensation
+66	The process of cutting into a hillside to slow the speed of water flowing down a slope 	terracing	0.0	0.0	0.0	terracing
+67	The process of cutting into a hillside to slow the speed of water flowing down a slope 	contour plowing	0.011914581463	0.011914581463	0.011914581463	terracing
+68	The process of cutting into a hillside to slow the speed of water flowing down a slope 	windbreaking	0.0	0.0	0.0	terracing
+69	The process of cutting into a hillside to slow the speed of water flowing down a slope 	fertilization	0.0	0.0	0.0	terracing
+70	The process of planting grasses between rows of other crops to prevent soil from being washed or blown away 	strip farming	0.0	0.0	0.0	strip farming
+71	The process of planting grasses between rows of other crops to prevent soil from being washed or blown away 	contour plowing	0.0	0.0	0.0	strip farming
+72	The process of planting grasses between rows of other crops to prevent soil from being washed or blown away 	fertilization	0.0	0.0	0.0	strip farming
+73	The process of planting grasses between rows of other crops to prevent soil from being washed or blown away 	crop rotation	0.0	0.0	0.0	strip farming
+74	A characteristic of an organism that increases its chances of survival in its environment. 	adaptation	0.0	0.0	0.0	adaptation
+75	A characteristic of an organism that increases its chances of survival in its environment. 	camouflage	0.0	0.0	0.0	adaptation
+76	What is water vapor in the air called? 	evaporation	0.0	0.0	0.0	humidity
+77	What is water vapor in the air called? 	respiration	0.0	0.0	0.0	humidity
+78	What is water vapor in the air called? 	humidity	0.0	0.0	0.0	humidity
+79	"Precipitation that falls in form of balls of ice is called <span class=""blank""> </span>. "	hail	0.153286977326	0.153286977326	0.153286977326	hail
+80	"Precipitation that falls in form of balls of ice is called <span class=""blank""> </span>. "	rain	0.0216	0.0216	0.0216	hail
+81	"Precipitation that falls in form of balls of ice is called <span class=""blank""> </span>. "	snow	0.120386625514	0.120386625514	0.120386625514	hail
+82	"A/an <span class=""blank""> </span> is something that helps a living thing survive in its environment. "	adaptation	0.0	0.0	0.0	adaptation
+83	"A/an <span class=""blank""> </span> is something that helps a living thing survive in its environment. "	physical change	0.0	0.0	0.0	adaptation
+84	"A/an <span class=""blank""> </span> is something that helps a living thing survive in its environment. "	camouflage	0.0	0.0	0.0	adaptation
+85	A long and strong beak that tears flesh is 	tearing	0.0	0.0	0.0	tearing
+86	A long and strong beak that tears flesh is 	spearing	0.0	0.0	0.0	tearing
+87	Students want to find out at which temperature bean plants grow tallest. Which science process skill would be used to find this temperature? 	measuring	0.0	0.0	0.0	measuring
+88	Students want to find out at which temperature bean plants grow tallest. Which science process skill would be used to find this temperature? 	classifying	0.0	0.0	0.0	measuring
+89	Students want to find out at which temperature bean plants grow tallest. Which science process skill would be used to find this temperature? 	predicting	0.0	0.0	0.0	measuring
+90	Students want to find out at which temperature bean plants grow tallest. Which science process skill would be used to find this temperature? 	inferring	0.0	0.0	0.0	measuring
+91	__________ is the movement of a group of one type of animal from one region to another and back again. 	hibernation	0.0216	0.0216	0.0216	migration
+92	__________ is the movement of a group of one type of animal from one region to another and back again. 	migration	0.1656	0.1656	0.1656	migration
+93	If a fire destroys a forest, new plants will grow. 	conservation	0.0	0.0	0.0	succession
+94	If a fire destroys a forest, new plants will grow. 	erosion	0.0	0.0	0.0	succession
+95	If a fire destroys a forest, new plants will grow. 	succession	0.0	0.0	0.0	succession
+96	When liquids are heated, this occurs: 	melting	0.0	0.0	0.0	evaporation
+97	When liquids are heated, this occurs: 	evaporation	0.0	0.0	0.0	evaporation
+98	"Babies will <span class=""blank""> </span> or get traits from their parents. "	reproduce	0.0	0.0	0.0	inherit
+99	"Babies will <span class=""blank""> </span> or get traits from their parents. "	survive	0.0	0.0	0.0	inherit
+100	"Babies will <span class=""blank""> </span> or get traits from their parents. "	inherit	0.0	0.0	0.0	inherit
+101	The movement of an animal from one place to another as the seasons change is called 	hibernation	0.1116	0.1116	0.1116	migration
+102	The movement of an animal from one place to another as the seasons change is called 	decomposition	0.00953273632985	0.00953273632985	0.00953273632985	migration
+103	The movement of an animal from one place to another as the seasons change is called 	migration	0.1656	0.1656	0.1656	migration
+104	The movement of an animal from one place to another as the seasons change is called 	pollination	0.0	0.0	0.0	migration
+105	"Magnets contain a force that <span class=""blank""> </span> certain metals like iron. "	attracts	0.0	0.0	0.0	attracts
+106	"Magnets contain a force that <span class=""blank""> </span> certain metals like iron. "	increases	0.0	0.0	0.0	attracts
+107	"Magnets contain a force that <span class=""blank""> </span> certain metals like iron. "	repels	0.0	0.0	0.0	attracts
+108	What is the third step of the water cycle? 	evaporation	0.0	0.0	0.0	precipitation
+109	What is the third step of the water cycle? 	run off	0.0	0.0	0.0	precipitation
+110	What is the third step of the water cycle? 	precipitation	0.0	0.0	0.0	precipitation
+111	What is the third step of the water cycle? 	condensation	0.0	0.0	0.0	precipitation
+112	An area received six inches of snow during the winter. Before the snow can continue through the water cycle as ground water or runoff, it must first 	evaporate	0.0075992563767	0.0075992563767	0.0075992563767	melt
+113	An area received six inches of snow during the winter. Before the snow can continue through the water cycle as ground water or runoff, it must first 	condense	0.00588458184591	0.00588458184591	0.00588458184591	melt
+114	An area received six inches of snow during the winter. Before the snow can continue through the water cycle as ground water or runoff, it must first 	melt	0.0	0.0	0.0	melt
+115	An area received six inches of snow during the winter. Before the snow can continue through the water cycle as ground water or runoff, it must first 	freeze	0.0	0.0	0.0	melt
+116	What is the process of the movement of water and dissolved materials through the cell membrane? 	diffusion	0.0	0.0	0.0	osmosis
+117	What is the process of the movement of water and dissolved materials through the cell membrane? 	osmosis	0.0	0.0	0.0	osmosis
+118	The bending of light as it passes from one material into another is 	reflection	0.0	0.0	0.0	refraction
+119	The bending of light as it passes from one material into another is 	refraction	0.0	0.0	0.0	refraction
+120	The process by which molten material adds new oceanic crust to the ocean floor 	seafloor spreading theory	0.0	0.0	0.0	seafloor spreading theory
+121	The process by which molten material adds new oceanic crust to the ocean floor 	continental drift theory	0.0	0.0	0.0	seafloor spreading theory
+122	To take in light 	reflect	0.0	0.0	0.0	absorb
+123	To take in light 	absorb	0.0	0.0	0.0	absorb
+124	To take in light 	refract	0.0	0.0	0.0	absorb
+125	The process of making a new plant from the joining of a sperm and a egg cell is known as 	asexual reproduction	0.0165525721131	0.0165525721131	0.0165525721131	sexual reproduction
+126	The process of making a new plant from the joining of a sperm and a egg cell is known as 	self-pollination	0.0	0.0	0.0	sexual reproduction
+127	The process of making a new plant from the joining of a sperm and a egg cell is known as 	cross-pollination	0.0216	0.0216	0.0216	sexual reproduction
+128	The process of making a new plant from the joining of a sperm and a egg cell is known as 	sexual reproduction	0.0165525721131	0.0165525721131	0.0165525721131	sexual reproduction
+129	How does your body acquire the oxygen the cells in your body need to function? 	diffusion	0.0	0.0	0.0	breathing
+130	How does your body acquire the oxygen the cells in your body need to function? 	absorption	0.0	0.0	0.0	breathing
+131	How does your body acquire the oxygen the cells in your body need to function? 	breathing	0.0	0.0	0.0	breathing
+132	How does your body acquire the oxygen the cells in your body need to function? 	osmosis	0.0	0.0	0.0	breathing
+133	A force that resists motion created by objects rubbing together. 	gravity	0.0	0.0	0.0	friction
+134	A force that resists motion created by objects rubbing together. 	friction	0.0	0.0	0.0	friction
+135	"Your respiratory system helps you <span class=""blank""> </span>. "	breathe	0.0	0.0	0.0	breathe
+136	"Your respiratory system helps you <span class=""blank""> </span>. "	move	0.0	0.0	0.0	breathe
+137	"Your respiratory system helps you <span class=""blank""> </span>. "	digest food	0.0	0.0	0.0	breathe
+138	corroding metal 	physical change	0.0	0.0	0.0	chemical change
+139	corroding metal 	chemical change	0.0	0.0	0.0	chemical change
+140	What process produces sex cells? 	mitosis	0.0	0.0	0.0	meiosis
+141	What process produces sex cells? 	splitting	0.0	0.0	0.0	meiosis
+142	What process produces sex cells? 	meiosis	0.0	0.0	0.0	meiosis
+143	"Energy from the sun reaches earth by <span class=""blank""> </span>. "	convection	0.0	0.0	0.0	radiation
+144	"Energy from the sun reaches earth by <span class=""blank""> </span>. "	radiation	0.0	0.0	0.0	radiation
+145	"Energy from the sun reaches earth by <span class=""blank""> </span>. "	reflection	0.0	0.0	0.0	radiation
+146	"Energy from the sun reaches earth by <span class=""blank""> </span>. "	friction	0.0	0.0	0.0	radiation
+147	Which is the best example of natureâ??s recycling process? 	the water cycle	0.0	0.0	0.0	the water cycle
+148	Which is the best example of natureâ??s recycling process? 	erosion	0.0	0.0	0.0	the water cycle
+149	Which is the best example of natureâ??s recycling process? 	weathering	0.0	0.0	0.0	the water cycle
+150	When closely related living things are bred together, it is called 	adaptation	0.0	0.0	0.0	crossbreeding
+151	When closely related living things are bred together, it is called 	crossbreeding	0.0	0.0	0.0	crossbreeding
+152	mixing lemonade powder into water 	physical change	0.0162388511477	0.0162388511477	0.0162388511477	physical change
+153	mixing lemonade powder into water 	chemical change	0.004640625	0.004640625	0.004640625	physical change
+154	When something changes position, it is in? 	motion	0.0	0.0	0.0	motion
+155	When something changes position, it is in? 	acceleration	0.0	0.0	0.0	motion
+156	When something changes position, it is in? 	gravity	0.0	0.0	0.0	motion
+157	When something changes position, it is in? 	friction	0.0	0.0	0.0	motion
+158	Being able to tell different sounds apart is called 	sound discrimination	0.0	0.0	0.0	sound discrimination
+159	Being able to tell different sounds apart is called 	vibration	0.0	0.0	0.0	sound discrimination
+160	The process of adding fertilizer to soil to replace nutrients used up by previous crops 	terracing	0.0	0.0	0.0	fertilization
+161	The process of adding fertilizer to soil to replace nutrients used up by previous crops 	strip farming	0.0	0.0	0.0	fertilization
+162	The process of adding fertilizer to soil to replace nutrients used up by previous crops 	crop rotation	0.0	0.0	0.0	fertilization
+163	The process of adding fertilizer to soil to replace nutrients used up by previous crops 	fertilization	0.0	0.0	0.0	fertilization
+164	"The movement of water back and forth between air and the Earth's surface is called the<span class=""blank""> </span>. "	water cycle	0.106832013461	0.106832013461	0.106832013461	water cycle
+165	"The movement of water back and forth between air and the Earth's surface is called the<span class=""blank""> </span>. "	condensation	0.0152257899104	0.0152257899104	0.0152257899104	water cycle
+166	"The movement of water back and forth between air and the Earth's surface is called the<span class=""blank""> </span>. "	evaporation	0.137683120351	0.137683120351	0.137683120351	water cycle
+167	What do we call the process of a seed developing into a plant? 	germination	0.0	0.0	0.0	germination
+168	What do we call the process of a seed developing into a plant? 	regeneration	0.0	0.0	0.0	germination
+169	"When an object orbits another object, it <span class=""blank""> </span>. "	vibrates	0.0	0.0	0.0	revolves
+170	"When an object orbits another object, it <span class=""blank""> </span>. "	rotates	0.0232244897959	0.0232244897959	0.0232244897959	revolves
+171	"When an object orbits another object, it <span class=""blank""> </span>. "	revolves	0.0260775623269	0.0260775623269	0.0260775623269	revolves
+172	"When an object orbits another object, it <span class=""blank""> </span>. "	explodes	0.0	0.0	0.0	revolves
+173	"The process in which a snake loses its outer skin is called <span class=""blank""> </span>. "	shedding	0.0	0.0	0.0	molting
+174	"The process in which a snake loses its outer skin is called <span class=""blank""> </span>. "	loosening	0.0	0.0	0.0	molting
+175	"The process in which a snake loses its outer skin is called <span class=""blank""> </span>. "	molting	0.0	0.0	0.0	molting
+176	"<span class=""blank""> </span> is a change of position. "	motion	0.0	0.0	0.0	motion
+177	"<span class=""blank""> </span> is a change of position. "	gravity	0.0	0.0	0.0	motion
+178	The process of change from an egg to an adult butterfly is ____________. 	metamorphosis	0.0	0.0	0.0	metamorphosis
+179	The process of change from an egg to an adult butterfly is ____________. 	photosynthesis	0.0	0.0	0.0	metamorphosis
+180	The process of change from an egg to an adult butterfly is ____________. 	reproduction	0.0	0.0	0.0	metamorphosis
+181	To change from a solid into a liquid is to 	solidify	0.0	0.0	0.0	melt
+182	To change from a solid into a liquid is to 	melt	0.0216	0.0216	0.0216	melt
+183	To change from a solid into a liquid is to 	freeze	0.0210978986595	0.0210978986595	0.0210978986595	melt
+184	To separate a mixture of paper clips and sand, Joe should use: 	magnetic separation	0.0	0.0	0.0	magnetic separation
+185	To separate a mixture of paper clips and sand, Joe should use: 	distillation	0.0	0.0	0.0	magnetic separation
+186	To separate a mixture of paper clips and sand, Joe should use: 	decanting	0.0	0.0	0.0	magnetic separation
+187	What is it called when an object is moved from one position to another? 	work	0.0	0.0	0.0	work
+188	What is it called when an object is moved from one position to another? 	gravity	0.0	0.0	0.0	work
+189	What process ends with a new and improved plant? 	germinating	0.0	0.0	0.0	grafting
+190	What process ends with a new and improved plant? 	photosynthesis	0.0	0.0	0.0	grafting
+191	What process ends with a new and improved plant? 	grafting	0.0	0.0	0.0	grafting
+192	The process of changing from a liquid state to a gas state 	sublimation	0.0216	0.0216	0.0216	evaporation
+193	The process of changing from a liquid state to a gas state 	condensation	0.0	0.0	0.0	evaporation
+194	The process of changing from a liquid state to a gas state 	evaporation	0.159373080964	0.159373080964	0.159373080964	evaporation
+195	Which of the following must all plant and animal species do in order for each species to survive? 	migrate	0.0	0.0	0.0	reproduce
+196	Which of the following must all plant and animal species do in order for each species to survive? 	reproduce	0.0	0.0	0.0	reproduce
+197	Which of the following must all plant and animal species do in order for each species to survive? 	make food	0.0	0.0	0.0	reproduce
+198	"Rain, sleet, hail, and snow are all part of the <span class=""blank""> </span> process in the water cycle. "	transpiration	0.0	0.0	0.0	precipitation
+199	"Rain, sleet, hail, and snow are all part of the <span class=""blank""> </span> process in the water cycle. "	condensation	0.0	0.0	0.0	precipitation
+200	"Rain, sleet, hail, and snow are all part of the <span class=""blank""> </span> process in the water cycle. "	precipitation	0.0	0.0	0.0	precipitation
+201	"Rain, sleet, hail, and snow are all part of the <span class=""blank""> </span> process in the water cycle. "	evaporation	0.0	0.0	0.0	precipitation
+202	"<span class=""blank""> </span> is the type of thermal energy transfer that occurs when the you place a cooler object on a heat source to warm the cooler object up. "	conduction	0.0	0.0	0.0	conduction
+203	"<span class=""blank""> </span> is the type of thermal energy transfer that occurs when the you place a cooler object on a heat source to warm the cooler object up. "	convection	0.0	0.0	0.0	conduction
+204	"<span class=""blank""> </span> is the type of thermal energy transfer that occurs when the you place a cooler object on a heat source to warm the cooler object up. "	radiation	0.0	0.0	0.0	conduction
+205	The process of wearing away rocks by natural means is called 	erosion	0.0	0.0	0.0	weathering
+206	The process of wearing away rocks by natural means is called 	weathering	0.0	0.0	0.0	weathering
+207	The continuous transfer of carbon between the atmosphere and organisms 	carbon cycle	0.0	0.0	0.0	carbon cycle
+208	The continuous transfer of carbon between the atmosphere and organisms 	nitrogen cycle	0.0	0.0	0.0	carbon cycle
+209	What is the process that moves pieces of rock and soil? 	erosion	0.0	0.0	0.0	erosion
+210	What is the process that moves pieces of rock and soil? 	weathering	0.0	0.0	0.0	erosion
+211	Then droplets of water (rain, snow, sleet, or hail) fall back to the earth, this is called: 	condensation	0.0	0.0	0.0	precipitation
+212	Then droplets of water (rain, snow, sleet, or hail) fall back to the earth, this is called: 	precipitation	0.0	0.0	0.0	precipitation
+213	Then droplets of water (rain, snow, sleet, or hail) fall back to the earth, this is called: 	evaporation	0.0	0.0	0.0	precipitation
+214	"Liquid water becomes a gas called water vapor through the process of <span class=""blank""> </span> "	humidity	0.0	0.0	0.0	evaporation
+215	"Liquid water becomes a gas called water vapor through the process of <span class=""blank""> </span> "	condensation	0.0	0.0	0.0	evaporation
+216	"Liquid water becomes a gas called water vapor through the process of <span class=""blank""> </span> "	transpiration	0.0	0.0	0.0	evaporation
+217	"Liquid water becomes a gas called water vapor through the process of <span class=""blank""> </span> "	evaporation	0.0	0.0	0.0	evaporation
+218	To go into a deep sleep. 	migrate	0.0	0.0	0.0	hibernate
+219	To go into a deep sleep. 	hibernate	0.0	0.0	0.0	hibernate
+220	To go into a deep sleep. 	camouflage	0.0	0.0	0.0	hibernate
+221	The process of plowing furrows across a slope instead of up and down to prevent rainwater from carrying away topsoil down hills 	terracing	0.0	0.0	0.0	contour plowing
+222	The process of plowing furrows across a slope instead of up and down to prevent rainwater from carrying away topsoil down hills 	strip farming	0.0	0.0	0.0	contour plowing
+223	The process of plowing furrows across a slope instead of up and down to prevent rainwater from carrying away topsoil down hills 	contour plowing	0.0216	0.0216	0.0216	contour plowing
+224	The process of plowing furrows across a slope instead of up and down to prevent rainwater from carrying away topsoil down hills 	windbreaking	0.0	0.0	0.0	contour plowing
+225	A student is investigating changes in the states of matter. The student fills a graduated cylinder with 50 milliliters of packed snow. The graduated cylinder has a mass of 50 grams when empty and 95 grams when filled with the snow. During which process in the water cycle does snow fall to the ground? 	condensation	0.0	0.0	0.0	precipitation
+226	A student is investigating changes in the states of matter. The student fills a graduated cylinder with 50 milliliters of packed snow. The graduated cylinder has a mass of 50 grams when empty and 95 grams when filled with the snow. During which process in the water cycle does snow fall to the ground? 	precipitation	0.0	0.0	0.0	precipitation
+227	A student is investigating changes in the states of matter. The student fills a graduated cylinder with 50 milliliters of packed snow. The graduated cylinder has a mass of 50 grams when empty and 95 grams when filled with the snow. During which process in the water cycle does snow fall to the ground? 	classification	0.0	0.0	0.0	precipitation
+228	A student is investigating changes in the states of matter. The student fills a graduated cylinder with 50 milliliters of packed snow. The graduated cylinder has a mass of 50 grams when empty and 95 grams when filled with the snow. During which process in the water cycle does snow fall to the ground? 	evaporation	0.0	0.0	0.0	precipitation
+229	When water particles cool and change from a gas (like water vapor) back to a liquid, this is called: 	condensation	0.0	0.0	0.0	condensation
+230	When water particles cool and change from a gas (like water vapor) back to a liquid, this is called: 	precipitation	0.0216	0.0216	0.0216	condensation
+231	When water particles cool and change from a gas (like water vapor) back to a liquid, this is called: 	evaporation	0.1536	0.1536	0.1536	condensation
+232	What make oceans bigger? 	deposition	0.0	0.0	0.0	deposition
+233	What make oceans bigger? 	accumulation	0.0	0.0	0.0	deposition
+234	What make oceans bigger? 	rain	0.0	0.0	0.0	deposition
+235	"A(n) <span class=""blank""> </span> is a modified feature that helps a plant survive in the environment. "	adaptation	0.0	0.0	0.0	adaptation
+236	"A(n) <span class=""blank""> </span> is a modified feature that helps a plant survive in the environment. "	change	0.0	0.0	0.0	adaptation
+237	"When an object spins on its axis, it <span class=""blank""> </span>. "	vibrates	0.0	0.0	0.0	rotates
+238	"When an object spins on its axis, it <span class=""blank""> </span>. "	rotates	0.0302802295918	0.0302802295918	0.0302802295918	rotates
+239	"When an object spins on its axis, it <span class=""blank""> </span>. "	revolves	0.0373363746538	0.0373363746538	0.0373363746538	rotates
+240	"When an object spins on its axis, it <span class=""blank""> </span>. "	explodes	0.0	0.0	0.0	rotates
+241	Colors, patterns and shapes that disguise an animal from predators. 	migrate	0.0	0.0	0.0	camouflage
+242	Colors, patterns and shapes that disguise an animal from predators. 	hibernate	0.0	0.0	0.0	camouflage
+243	Colors, patterns and shapes that disguise an animal from predators. 	camouflage	0.0	0.0	0.0	camouflage
+244	"Through <span class=""blank""> </span> human beings are able to produce new human beings. "	digestion	0.0	0.0	0.0	reproduction
+245	"Through <span class=""blank""> </span> human beings are able to produce new human beings. "	reproduction	0.0	0.0	0.0	reproduction
+246	"Through <span class=""blank""> </span> human beings are able to produce new human beings. "	circulation	0.0	0.0	0.0	reproduction
+247	The process of planting different crops on the same land in different years to help in adding nutrients back in the soil 	terracing	0.0216	0.0216	0.0216	crop rotation
+248	The process of planting different crops on the same land in different years to help in adding nutrients back in the soil 	contour plowing	0.0	0.0	0.0	crop rotation
+249	The process of planting different crops on the same land in different years to help in adding nutrients back in the soil 	crop rotation	0.0	0.0	0.0	crop rotation
+250	The process of planting different crops on the same land in different years to help in adding nutrients back in the soil 	fertilization	0.0	0.0	0.0	crop rotation
+251	The process of breaking down rocks into smaller particles is called: 	sedimentation	0.0	0.0	0.0	weathering
+252	The process of breaking down rocks into smaller particles is called: 	erosion	0.0	0.0	0.0	weathering
+253	The process of breaking down rocks into smaller particles is called: 	weathering	0.0	0.0	0.0	weathering
+254	"A change in the way matter looks is called <span class=""blank""> </span>? "	physical change	0.0	0.0	0.0	physical change
+255	"A change in the way matter looks is called <span class=""blank""> </span>? "	chemical change	0.0	0.0	0.0	physical change
+256	The movement of an object all the way around another planet is called 	revolving	0.486309159643	0.486309159643	0.486309159643	revolving
+257	The movement of an object all the way around another planet is called 	rotation	0.311485526777	0.311485526777	0.311485526777	revolving
+258	The movement of an object all the way around another planet is called 	gravity	0.0	0.0	0.0	revolving
+259	"<span class=""blank""> </span> is a process in the water cycle, where water vapor rises into the atmosphere. "	transpiration	0.0	0.0	0.0	condensation
+260	"<span class=""blank""> </span> is a process in the water cycle, where water vapor rises into the atmosphere. "	condensation	0.0	0.0	0.0	condensation
+261	"<span class=""blank""> </span> is a process in the water cycle, where water vapor rises into the atmosphere. "	precipitation	0.0	0.0	0.0	condensation
+262	"<span class=""blank""> </span> is a process in the water cycle, where water vapor rises into the atmosphere. "	evaporation	0.0	0.0	0.0	condensation
+263	"Offspring come from a single parent during <span class=""blank""> </span>. "	asexual reproduction	0.0	0.0	0.0	asexual reproduction
+264	"Offspring come from a single parent during <span class=""blank""> </span>. "	sexual reproduction	0.0	0.0	0.0	asexual reproduction
+265	After a rain, a puddle of water remains on a sidewalk. After a day of sunshine, the puddle is gone. Which process is most responsible for the disappearance of the puddle? 	transpiration	0.0	0.0	0.0	evaporation
+266	After a rain, a puddle of water remains on a sidewalk. After a day of sunshine, the puddle is gone. Which process is most responsible for the disappearance of the puddle? 	condensation	0.0	0.0	0.0	evaporation
+267	After a rain, a puddle of water remains on a sidewalk. After a day of sunshine, the puddle is gone. Which process is most responsible for the disappearance of the puddle? 	precipitation	0.0	0.0	0.0	evaporation
+268	After a rain, a puddle of water remains on a sidewalk. After a day of sunshine, the puddle is gone. Which process is most responsible for the disappearance of the puddle? 	evaporation	0.0	0.0	0.0	evaporation
+269	Select whether the example is a chemical change or a physical change<br/><br/>Glass breaking 	physical change	0.0	0.0	0.0	physical change
+270	Select whether the example is a chemical change or a physical change<br/><br/>Glass breaking 	chemical change	0.0	0.0	0.0	physical change
+271	When one object passes through the shadow of another it is a? 	eclipse	0.00284363736048	0.00284363736048	0.00284363736048	eclipse
+272	When one object passes through the shadow of another it is a? 	reflection	0.0	0.0	0.0	eclipse
+273	The process that forms reproductive cells is called? 	mitosis	0.0	0.0	0.0	meiosis
+274	The process that forms reproductive cells is called? 	meiosis	0.0	0.0	0.0	meiosis
+275	fireworks exploding 	physical change	0.0112666666667	0.0112666666667	0.0112666666667	chemical change
+276	fireworks exploding 	chemical change	0.0112666666667	0.0112666666667	0.0112666666667	chemical change
+277	Mixtures can be separated by all of the following means except which one? 	boiling	0.0	0.0	0.0	boiling
+278	Mixtures can be separated by all of the following means except which one? 	filtering	0.0	0.0	0.0	boiling
+279	Mixtures can be separated by all of the following means except which one? 	evaporation	0.0	0.0	0.0	boiling
+280	Which is reproduction that requires a male and female cell? 	mitosis	0.0216	0.0216	0.0216	sexual reproduction
+281	Which is reproduction that requires a male and female cell? 	asexual reproduction	0.485033996816	0.485033996816	0.485033996816	sexual reproduction
+282	Which is reproduction that requires a male and female cell? 	sexual reproduction	0.485033996816	0.485033996816	0.485033996816	sexual reproduction
+283	When you rub your hands together very quickly, it produces heat and is called 	gravity	0.0	0.0	0.0	friction
+284	When you rub your hands together very quickly, it produces heat and is called 	friction	0.0	0.0	0.0	friction
+285	The process by which a liquid changes to a gas 	water cycle	0.0	0.0	0.0	evaporation
+286	The process by which a liquid changes to a gas 	condensation	0.0	0.0	0.0	evaporation
+287	The process by which a liquid changes to a gas 	evaporation	0.0	0.0	0.0	evaporation
+288	"Teeth help us to <span class=""blank""> </span>. "	swim	0.0	0.0	0.0	talk
+289	"Teeth help us to <span class=""blank""> </span>. "	write	0.0	0.0	0.0	talk
+290	"Teeth help us to <span class=""blank""> </span>. "	talk	0.0	0.0	0.0	talk
+291	When a liquid changes to a gas it is called 	condensation	0.0	0.0	0.0	evaporation
+292	When a liquid changes to a gas it is called 	evaporation	0.0	0.0	0.0	evaporation
+293	When plants use stored sugar for energy, they go through a process called 	perspiration	0.0	0.0	0.0	respiration
+294	When plants use stored sugar for energy, they go through a process called 	photosynthesis	0.0	0.0	0.0	respiration
+295	When plants use stored sugar for energy, they go through a process called 	respiration	0.0	0.0	0.0	respiration
+296	When plants use stored sugar for energy, they go through a process called 	transpiration	0.0	0.0	0.0	respiration
+297	"The final stage of the erosional process in which materials are dropped in another location is called <span class=""blank""> </span>. "	deposition	0.0	0.0	0.0	deposition
+298	"The final stage of the erosional process in which materials are dropped in another location is called <span class=""blank""> </span>. "	dropping	0.0	0.0	0.0	deposition
+299	"The final stage of the erosional process in which materials are dropped in another location is called <span class=""blank""> </span>. "	deposit	0.0	0.0	0.0	deposition
+300	"<span class=""blank""> </span> is the process of changing liquid water to water vapor. "	condensation	0.0	0.0	0.0	evaporation
+301	"<span class=""blank""> </span> is the process of changing liquid water to water vapor. "	storage	0.0	0.0	0.0	evaporation
+302	"<span class=""blank""> </span> is the process of changing liquid water to water vapor. "	evaporation	0.1536	0.1536	0.1536	evaporation
+303	What helps an animal look like another animal to protect it from predators? 	mimicry	0.0	0.0	0.0	mimicry
+304	What helps an animal look like another animal to protect it from predators? 	migration	0.0	0.0	0.0	mimicry
+305	What helps an animal look like another animal to protect it from predators? 	camouflage	0.0	0.0	0.0	mimicry
+306	"<span class=""blank""> </span> is the process of liquid water turning into water vapor"	storage	0.0	0.0	0.0	evaporation
+307	"<span class=""blank""> </span> is the process of liquid water turning into water vapor"	condensation	0.0	0.0	0.0	evaporation
+308	"<span class=""blank""> </span> is the process of liquid water turning into water vapor"	precipitation	0.0	0.0	0.0	evaporation
+309	"<span class=""blank""> </span> is the process of liquid water turning into water vapor"	evaporation	0.0	0.0	0.0	evaporation
+310	A species that no longer exists. 	extinction	0.0	0.0	0.0	extinction
+311	A species that no longer exists. 	classify	0.0	0.0	0.0	extinction
+312	What is the name of the process by which most cells divide? 	life cycle	0.0	0.0	0.0	mitosis
+313	What is the name of the process by which most cells divide? 	mitosis	0.0	0.0	0.0	mitosis
+314	What is the name of the process by which most cells divide? 	regeneration	0.0	0.0	0.0	mitosis
+315	Glaciers are slow-moving sheets of ice found on land. What process occurs when glacial ice is heated to 5° Celsius? 	freezing	0.0	0.0	0.0	melting
+316	Glaciers are slow-moving sheets of ice found on land. What process occurs when glacial ice is heated to 5° Celsius? 	melting	0.0	0.0	0.0	melting
+317	Glaciers are slow-moving sheets of ice found on land. What process occurs when glacial ice is heated to 5° Celsius? 	precipitation	0.0	0.0	0.0	melting
+318	Glaciers are slow-moving sheets of ice found on land. What process occurs when glacial ice is heated to 5° Celsius? 	evaporation	0.0	0.0	0.0	melting
+319	spoiling food 	physical change	0.0	0.0	0.0	chemical change
+320	spoiling food 	chemical change	0.0	0.0	0.0	chemical change
+321	"The act of saving, protecting or using resources wisely is called <span class=""blank""> </span> "	conservation	0.0	0.0	0.0	conservation
+322	"The act of saving, protecting or using resources wisely is called <span class=""blank""> </span> "	recycling	0.0	0.0	0.0	conservation
+323	"The act of saving, protecting or using resources wisely is called <span class=""blank""> </span> "	innovation	0.0	0.0	0.0	conservation
+324	"The act of saving, protecting or using resources wisely is called <span class=""blank""> </span> "	condensation	0.0	0.0	0.0	conservation
+325	"<span class=""blank""> </span> is the major change in the body form of an animal during its life cycle. "	life cycle	0.0	0.0	0.0	metamorphosis
+326	"<span class=""blank""> </span> is the major change in the body form of an animal during its life cycle. "	metamorphosis	0.1656	0.1656	0.1656	metamorphosis
+327	"If plaque is not cleaned off the teeth, it can cause the enamel of your teeth to <span class=""blank""> </span>. "	harden	0.0	0.0	0.0	decay
+328	"If plaque is not cleaned off the teeth, it can cause the enamel of your teeth to <span class=""blank""> </span>. "	shine	0.0	0.0	0.0	decay
+329	"If plaque is not cleaned off the teeth, it can cause the enamel of your teeth to <span class=""blank""> </span>. "	become whiter	0.0	0.0	0.0	decay
+330	"If plaque is not cleaned off the teeth, it can cause the enamel of your teeth to <span class=""blank""> </span>. "	decay	0.0	0.0	0.0	decay
+331	Terracing a hillside can slow __________________________. 	absorption	0.0	0.0	0.0	erosion
+332	Terracing a hillside can slow __________________________. 	erosion	0.0	0.0	0.0	erosion
+333	Terracing a hillside can slow __________________________. 	weathering	0.0	0.0	0.0	erosion
+334	"When you leave a glass of water standing on the counter, water forms on the outside of the glass. This is an example of <span class=""blank""> </span>. "	condensation	0.00588458184591	0.00588458184591	0.00588458184591	condensation
+335	"When you leave a glass of water standing on the counter, water forms on the outside of the glass. This is an example of <span class=""blank""> </span>. "	evaporation	0.0075992563767	0.0075992563767	0.0075992563767	condensation
+336	Rocks change over time from one type to another.	melting	0.0216	0.0216	0.0216	the rock cycle
+337	Rocks change over time from one type to another.	erosion	0.0108	0.0108	0.0108	the rock cycle
+338	What is it called when two different organisms form a relationship where they are dependent upon each other? 	photosynthesis	0.0	0.0	0.0	symbiosis
+339	What is it called when two different organisms form a relationship where they are dependent upon each other? 	symbiosis	0.0	0.0	0.0	symbiosis
+340	When a planet moves around the sun, this is called a 	rotation	0.0139609482699	0.0139609482699	0.0139609482699	revolution
+341	When a planet moves around the sun, this is called a 	revolution	0.0216	0.0216	0.0216	revolution
+342	When a planet moves around the sun, this is called a 	spin	0.0	0.0	0.0	revolution
+343	Drinking lots of salt water can kill a person. The salt in the water moves to the cells, where there is very little salt. As the cells move the water to balance out the salt - so that the salt is equal on both sides - water moves OUT of the cell, and the cell dies. What causes this to happen? 	diffusion	0.0	0.0	0.0	osmosis
+344	Drinking lots of salt water can kill a person. The salt in the water moves to the cells, where there is very little salt. As the cells move the water to balance out the salt - so that the salt is equal on both sides - water moves OUT of the cell, and the cell dies. What causes this to happen? 	osmosis	0.0	0.0	0.0	osmosis
+345	As water vapor rises in the atmosphere, it cools and changes back to liquid. Tiny drops of liquid form clouds in this process called 	run-off	0.0	0.0	0.0	condensation
+346	As water vapor rises in the atmosphere, it cools and changes back to liquid. Tiny drops of liquid form clouds in this process called 	condensation	0.0081960958577	0.0081960958577	0.0081960958577	condensation
+347	As water vapor rises in the atmosphere, it cools and changes back to liquid. Tiny drops of liquid form clouds in this process called 	precipitation	0.0216	0.0216	0.0216	condensation
+348	As water vapor rises in the atmosphere, it cools and changes back to liquid. Tiny drops of liquid form clouds in this process called 	evaporation	0.0216	0.0216	0.0216	condensation
+349	When we cut down trees or drain wetlands, we do what to the habitats of many living things? 	destroy	0.0	0.0	0.0	destroy
+350	When we cut down trees or drain wetlands, we do what to the habitats of many living things? 	plant	0.0	0.0	0.0	destroy
+351	When we cut down trees or drain wetlands, we do what to the habitats of many living things? 	help	0.0	0.0	0.0	destroy
+352	When we cut down trees or drain wetlands, we do what to the habitats of many living things? 	build	0.0	0.0	0.0	destroy
+353	"The force that keeps us on Earth is <span class=""blank""> </span> "	magnetism	0.0	0.0	0.0	gravity
+354	"The force that keeps us on Earth is <span class=""blank""> </span> "	inertia	0.0	0.0	0.0	gravity
+355	"The force that keeps us on Earth is <span class=""blank""> </span> "	gravity	0.0	0.0	0.0	gravity
+356	When light strikes a surface and bounces off, what occurs? 	reflection	0.0	0.0	0.0	reflection
+357	When light strikes a surface and bounces off, what occurs? 	refraction	0.0	0.0	0.0	reflection
+358	A new carpet pad made from scraps of old carpets is an example of 	repairing	0.0	0.0	0.0	recycling
+359	A new carpet pad made from scraps of old carpets is an example of 	revising	0.0	0.0	0.0	recycling
+360	A new carpet pad made from scraps of old carpets is an example of 	reducing	0.0	0.0	0.0	recycling
+361	A new carpet pad made from scraps of old carpets is an example of 	recycling	0.0	0.0	0.0	recycling
+362	A giraffe's long neck is a(n) 	mimicry	0.0	0.0	0.0	adaptation
+363	A giraffe's long neck is a(n) 	adaptation	0.0	0.0	0.0	adaptation
+364	A giraffe's long neck is a(n) 	camouflage	0.0	0.0	0.0	adaptation
+365	"The process of a liquid becoming a gas is called <span class=""blank""> </span> "	melting	0.0	0.0	0.0	evaporation
+366	"The process of a liquid becoming a gas is called <span class=""blank""> </span> "	boiling	0.0	0.0	0.0	evaporation
+367	"The process of a liquid becoming a gas is called <span class=""blank""> </span> "	evaporation	0.0	0.0	0.0	evaporation
+368	The force that pulls objects to the center of the Earth is called? 	motion	0.00334132653061	0.00334132653061	0.00334132653061	gravity
+369	The force that pulls objects to the center of the Earth is called? 	acceleration	0.0216	0.0216	0.0216	gravity
+370	The force that pulls objects to the center of the Earth is called? 	gravity	0.0	0.0	0.0	gravity
+371	The force that pulls objects to the center of the Earth is called? 	friction	0.00195235310848	0.00195235310848	0.00195235310848	gravity
+372	Thermal energy that travels from the sun to Earth is transferred by 	conduction	0.0	0.0	0.0	radiation
+373	Thermal energy that travels from the sun to Earth is transferred by 	convection	0.00531712655744	0.00531712655744	0.00531712655744	radiation
+374	Thermal energy that travels from the sun to Earth is transferred by 	radiation	0.0	0.0	0.0	radiation
+375	"During <span class=""blank""> </span>, a light ray changes direction as it passes from one material to another. "	reflection	0.0	0.0	0.0	refraction
+376	"During <span class=""blank""> </span>, a light ray changes direction as it passes from one material to another. "	refraction	0.0	0.0	0.0	refraction
+377	"Light can <span class=""blank""> </span>off surfaces that it strikes. "	motion	0.0	0.0	0.0	reflect
+378	"Light can <span class=""blank""> </span>off surfaces that it strikes. "	reflect	0.0	0.0	0.0	reflect
+379	The process in which something changes from a gas state to a liquid state 	convection	0.0	0.0	0.0	condensation
+380	The process in which something changes from a gas state to a liquid state 	condensation	0.0	0.0	0.0	condensation
+381	The process in which something changes from a gas state to a liquid state 	forecast	0.0	0.0	0.0	condensation
+382	squeezing oranges to make orange juice 	physical change	0.0	0.0	0.0	physical change
+383	squeezing oranges to make orange juice 	chemical change	0.0	0.0	0.0	physical change
+384	If a snake copies another snake it is called 	play	0.0	0.0	0.0	mimicry
+385	If a snake copies another snake it is called 	mimicry	0.0	0.0	0.0	mimicry
+386	If a snake copies another snake it is called 	camouflage	0.0	0.0	0.0	mimicry
+387	A period when an animal goes into a long, deep sleep is called 	hibernation	0.0216	0.0216	0.0216	hibernation
+388	A period when an animal goes into a long, deep sleep is called 	migration	0.0216	0.0216	0.0216	hibernation
+389	A period when an animal goes into a long, deep sleep is called 	camouflage	0.0216	0.0216	0.0216	hibernation
+390	Which would cause liquid water to change to a solid? 	freezing	0.0	0.0	0.0	freezing
+391	Which would cause liquid water to change to a solid? 	heating	0.0	0.0	0.0	freezing
+392	Which would cause liquid water to change to a solid? 	warming	0.0	0.0	0.0	freezing
+393	Which would cause liquid water to change to a solid? 	dripping	0.0	0.0	0.0	freezing
+394	"<span class=""blank""> </span>is the spinning of a planet on its axis. "	rotation	0.005949375	0.005949375	0.005949375	rotation
+395	"<span class=""blank""> </span>is the spinning of a planet on its axis. "	revolution	0.005949375	0.005949375	0.005949375	rotation
+396	"<span class=""blank""> </span>is the spinning of a planet on its axis. "	orbit	0.00135	0.00135	0.00135	rotation
+397	"There is one more way to deal with our growing garbage problem. Leaves and grass clippings can be <span class=""blank""> </span>or placed in a pile in the backyard. They will break down into soil and not have to be collected and take up space in our landfills. "	separated	0.0	0.0	0.0	composted
+398	"There is one more way to deal with our growing garbage problem. Leaves and grass clippings can be <span class=""blank""> </span>or placed in a pile in the backyard. They will break down into soil and not have to be collected and take up space in our landfills. "	composted	0.0	0.0	0.0	composted
+399	"There is one more way to deal with our growing garbage problem. Leaves and grass clippings can be <span class=""blank""> </span>or placed in a pile in the backyard. They will break down into soil and not have to be collected and take up space in our landfills. "	processed	0.00120763636364	0.00120763636364	0.00120763636364	composted
+400	"There is one more way to deal with our growing garbage problem. Leaves and grass clippings can be <span class=""blank""> </span>or placed in a pile in the backyard. They will break down into soil and not have to be collected and take up space in our landfills. "	crushed	0.0216	0.0216	0.0216	composted
+401	When two substances are combined, this may occur: 	retract	0.0	0.0	0.0	reaction
+402	When two substances are combined, this may occur: 	reaction	0.0	0.0	0.0	reaction
+403	When two substances are combined, this may occur: 	repel	0.0	0.0	0.0	reaction
+404	The process of moving sediment by wind, moving water, or ice is 	erosion	0.0216	0.0216	0.0216	erosion
+405	The process of moving sediment by wind, moving water, or ice is 	weathering	0.0	0.0	0.0	erosion
+406	To travel from one place to another. 	migrate	0.0893825407915	0.0893825407915	0.0893825407915	migrate
+407	To travel from one place to another. 	hibernate	0.00398286245578	0.00398286245578	0.00398286245578	migrate
+408	To travel from one place to another. 	camouflage	0.00361487603306	0.00361487603306	0.00361487603306	migrate
+409	"The spinning of a planet around an imaginary line through its center is called <span class=""blank""> </span> "	revolving	0.0363167808459	0.0363167808459	0.0363167808459	rotation
+410	"The spinning of a planet around an imaginary line through its center is called <span class=""blank""> </span> "	rotation	0.0240905891202	0.0240905891202	0.0240905891202	rotation
+411	"The spinning of a planet around an imaginary line through its center is called <span class=""blank""> </span> "	gravity	0.0	0.0	0.0	rotation
+412	"During <span class=""blank""> </span>, autotrophs use light energy to convert carbon dioxide and water into oxygen and energy-rich carbohydrates such as sugars and starches. "	chemosynthesis	0.0	0.0	0.0	photosynthesis
+413	"During <span class=""blank""> </span>, autotrophs use light energy to convert carbon dioxide and water into oxygen and energy-rich carbohydrates such as sugars and starches. "	evaporation	0.0	0.0	0.0	photosynthesis
+414	"During <span class=""blank""> </span>, autotrophs use light energy to convert carbon dioxide and water into oxygen and energy-rich carbohydrates such as sugars and starches. "	photosynthesis	0.0	0.0	0.0	photosynthesis
+415	"During <span class=""blank""> </span>, autotrophs use light energy to convert carbon dioxide and water into oxygen and energy-rich carbohydrates such as sugars and starches. "	nitrogen fixation	0.0	0.0	0.0	photosynthesis
+416	"<span class=""blank""> </span> refers to the movement of Earth around the sun. "	rotation	0.0139609482699	0.0139609482699	0.0139609482699	revolution
+417	"<span class=""blank""> </span> refers to the movement of Earth around the sun. "	revolution	0.0216	0.0216	0.0216	revolution
+418	"<span class=""blank""> </span> refers to the movement of Earth around the sun. "	precipitation	0.00522131358947	0.00522131358947	0.00522131358947	revolution
+419	Bees help flowers reproduces through a process called 	phototropism	0.0	0.0	0.0	pollination
+420	Bees help flowers reproduces through a process called 	fertilization	0.0	0.0	0.0	pollination
+421	Bees help flowers reproduces through a process called 	pollination	0.0	0.0	0.0	pollination
+422	Bees help flowers reproduces through a process called 	transpiration	0.0	0.0	0.0	pollination
+423	What do you call movements from one location to another? 	hibernation	0.0	0.0	0.0	migration
+424	What do you call movements from one location to another? 	migration	0.0	0.0	0.0	migration
+425	A change in an object's position is called: 	motion	0.0	0.0	0.0	motion
+426	A change in an object's position is called: 	pulling	0.0	0.0	0.0	motion
+427	An adaptation in which an animal looks very much like another animal or an object is a _____________. 	mimicry	0.0216	0.0216	0.0216	mimicry
+428	An adaptation in which an animal looks very much like another animal or an object is a _____________. 	camouflage	0.1656	0.1656	0.1656	mimicry
+429	Is burning a chemical change or physical change? 	physical change	0.0	0.0	0.0	chemical change
+430	Is burning a chemical change or physical change? 	chemical change	0.0	0.0	0.0	chemical change
+431	The process of change from an egg to an adult butterfly is an example of: 	vibrations	0.0	0.0	0.0	metamorphosis
+432	The process of change from an egg to an adult butterfly is an example of: 	metamorphosis	0.0	0.0	0.0	metamorphosis
