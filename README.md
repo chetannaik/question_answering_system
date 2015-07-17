@@ -21,7 +21,7 @@ The system takes descriptive question and four answer choices as input. This is 
 
 
 #### Example
-The following image gives some intuition on how and why structural alignment heps question answering.
+The following image gives some intuition on how and why structural alignment helps question answering.
 
 ![Frame Alignment](img/frame_alignment.png)
 
