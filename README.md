@@ -5,6 +5,7 @@ The goal of this project is to build a question answering system that performs t
 
 The system takes descriptive question and four answer choices as input. This is then processed by subsystems shown in the following figure to produce an answer and an associated confidence score.
 
+![System](img/system.png)
 
 
 #### Code
