@@ -1,8 +1,9 @@
 import json
+
 import requests
+from nltk import tokenize
 
 from memoized import Memoize
-from nltk import tokenize
 
 
 def get_list(sen):

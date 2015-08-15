@@ -1,8 +1,10 @@
 import argparse
+
 import numpy as np
 import pandas as pd
 
 import config
+import utils
 
 __author__ = 'chetannaik'
 
@@ -83,13 +85,12 @@ def aggregate_scores(experiment):
     dfq = df.groupby("QUESTION")
     questions = dfq.groups.keys()
 
-    for question in questions:
+    for qid, question in enumerate(questions):
         qdf = dfq.get_group(question)
         dfa = qdf.groupby("ANSWER_CHOICE")
         answers = dfa.groups.keys()
         for answer in answers:
             adf = dfa.get_group(answer)
-            adf = adf[config.ADF_COLUMNS]
             if config.SCORE_TYPE == "COLUMN_SCORE":
                 mean_scr, max_scr, median_scr = get_column_scores(adf,
                                                                   experiment)
@@ -99,7 +100,8 @@ def aggregate_scores(experiment):
                 mean_scr, max_scr, median_scr = get_max_role_scores(adf)
 
             temp_df = pd.DataFrame([[question, answer, mean_scr, max_scr,
-                                     median_scr, adf["CORRECT_ANSWER"].any()]],
+                                     median_scr,
+                                     adf["CORRECT_ANSWER"].tolist()[0]]],
                                    columns=df_columns)
             result_df = pd.concat([result_df, temp_df])
     result_df = result_df.reset_index(drop=True)
@@ -109,14 +111,15 @@ def aggregate_scores(experiment):
 
 
 def main(experiment):
+    utils.generate_experiment_scores(experiment)
     aggregate_scores(experiment)
     df = pd.read_csv("output/" + experiment + "/combined_scores.tsv", sep="\t",
                      index_col=0)
     questions = list(set(df.QUESTION.tolist()))
     df_columns = ["QUESTION", "MEAN_PREDICTION", "MAX_PREDICTION",
                   "MEDIAN_PREDICTION", "CORRECT_ANSWER"]
-    pred_df = pd.DataFrame(
-        columns=df_columns)
+    pred_df = pd.DataFrame(columns=df_columns)
+
     for question in questions:
         qdf = df.groupby("QUESTION").get_group(question)
         correct_ans = qdf.CORRECT_ANSWER.any()

@@ -1,9 +1,9 @@
+import time
+
 import generate_scores
 import rank_answers
 import evaluate
 import analysis
-import time
-
 import config
 
 __author__ = 'chetannaik'
@@ -20,7 +20,7 @@ def main():
         evaluate.main(experiment)
         analysis.main(experiment)
         lstring = 'experiment: {}\ntime = {} sec'
-        print lstring.format(str(experiment), str(time.time()-now))
+        print lstring.format(str(experiment), str(time.time() - now))
     print "Done!"
 
 
