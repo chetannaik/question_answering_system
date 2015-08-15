@@ -2,7 +2,7 @@ __author__ = 'chetannaik'
 
 
 # EXPERIMENTS = ["SRLManual", "SRLQA", "SRLQADSv1", "SRLQADSv2", "SRLQADSv2Top5", "MATE_AutoTrigger", "MATE_ManualTrigger", "SRLManualExtended"]
-EXPERIMENTS = ["SRLManualExtended"]
+EXPERIMENTS = ["SRLManual"]
 
 SHARDS = {"SRLManual": 1,
           "SRLManualExtended": 1,

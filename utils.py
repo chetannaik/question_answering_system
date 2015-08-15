@@ -1,6 +1,3 @@
-import csv
-import sys
-
 import numpy as np
 from nltk.corpus import wordnet as wn
 from nltk.stem.wordnet import WordNetLemmatizer

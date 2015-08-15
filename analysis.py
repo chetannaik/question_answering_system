@@ -1,5 +1,6 @@
 import argparse
-
+import config
+import itertools
 import pandas as pd
 
 __author__ = 'chetannaik'
@@ -13,22 +14,12 @@ def main(experiment):
 
     dfq = features.groupby("QUESTION")
     questions = dfq.groups.keys()
-    df_columns = ['QUESTION',
-                  'ANSWER_CHOICE',
-                  # 'ANSWER_SENTENCE',
-                  'Q_UNDERGOER', 'A_UNDERGOER', 'UNDERGOER_SCORE',
-                  'Q_ENABLER', 'A_ENABLER', 'ENABLER_SCORE',
-                  'Q_TRIGGER', 'A_TRIGGER', 'TRIGGER_SCORE',
-                  'Q_THEME', 'A_THEME', 'THEME_SCORE',
-                  'Q_RESULT', 'A_RESULT', 'RESULT_SCORE',
-                  'Q_MEDIUM', 'A_MEDIUM', 'MEDIUM_SCORE',
-                  'Q_SOURCE', 'A_SOURCE', 'SOURCE_SCORE',
-                  'Q_TARGET', 'A_TARGET', 'TARGET_SCORE',
-                  'Q_LOCATION', 'A_LOCATION', 'LOCATION_SCORE',
-                  'Q_DIRECTION', 'A_DIRECTION', 'DIRECTION_SCORE',
-                  'CORRECT_ANSWER',
-                  'PREDICTED_ANSWER',
-                  'PREDICTION']
+    df_columns = ['QUESTION', 'ANSWER_CHOICE']  # add 'ANSWER_SENTENCE' here
+    contents = map(lambda r: ['Q_' + r, 'A_' + r, r + '_SCORE'],
+                   config.ROLES[experiment])
+    contents = list(itertools.chain.from_iterable(contents))
+    df_columns.extend(contents)
+    df_columns.extend(['CORRECT_ANSWER', 'PREDICTED_ANSWER', 'PREDICTION'])
     result_df = pd.DataFrame(columns=df_columns)
 
     for question in questions:
